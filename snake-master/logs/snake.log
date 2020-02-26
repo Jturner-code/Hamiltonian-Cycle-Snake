@@ -1,0 +1,130 @@
+[ Episode 1 / Step 740 ]
+# # # # # # # # # # 
+# B B B B B H T B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 2 / Step 638 ]
+# # # # # # # # # # 
+# T B B B B B B B # 
+# H B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 3 / Step 662 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B T B # 
+# B B B B B B H B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 4 / Step 782 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B H # 
+# B B B B B B B T # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 5 / Step 734 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B T H B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 6 / Step 734 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B T H B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 7 / Step 627 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B T B B B # 
+# B B B B H B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 8 / Step 787 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# T H B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 9 / Step 760 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B H B B # 
+# B B B B B T B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 10 / Step 732 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B T B # 
+# B B B B B B H B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
