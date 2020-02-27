@@ -8,7 +8,6 @@
   - [Hamilton Solver](#hamilton-solver)
     - [Build a Hamiltonian Cycle](#build-a-hamiltonian-cycle)
     - [Take Shortcuts](#take-shortcuts)
-- [References](#references)
 
 ## Overview
 
@@ -74,12 +73,6 @@ Comparing to relative direction, the other way to direct the snake is **absolute
 Theoretically, using relative direction is more efficient since the game map is symmetric both horizontally and vertically. This is proved by experiments (we trained 4 models in 3000000 iterations using natural DQN algorithm):
 
 
-#### Comparisons
-
-The three optimization algorithms can be combined to optimize DQN since they are from three different perspectives. There are 8 different combinations in total and the performance are shown below (3000000 iterations, all trained with global and local state in relative direction):
-
-
-
 [src-basesolver]: ../snake/solver/base.py
 [src-pathsolver]: ../snake/solver/path.py
 [src-hamiltonsolver]: ../snake/solver/hamilton.py
@@ -89,8 +82,3 @@ The three optimization algorithms can be combined to optimize DQN since they are
 [img-hamilton-cycle]: ./images/hamilton_cycle.png
 [img-build-hamilton]: ./images/build_hamilton.png
 [img-take-shortcuts]: ./images/take_shortcuts.png
-
-
-[ref-shortcuts]: https://johnflux.com/2015/05/02/nokia-6110-part-3-algorithms/
-[ref-pri]: https://arxiv.org/abs/1511.05952
-[ref-duel]: https://arxiv.org/abs/1511.06581

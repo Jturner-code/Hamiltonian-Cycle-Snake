@@ -4,7 +4,7 @@
 
 
 class BaseSolver:
-    """Super class of all the solvers."""
+    
 
     def __init__(self, snake):
         self._snake = snake
